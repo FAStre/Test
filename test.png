@@ -1,0 +1,2 @@
+<script>alert("xxxtest-HTML-disguised-png-" + location.host)</script>
+<h1>not an image</h1>
