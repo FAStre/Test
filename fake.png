@@ -1,0 +1,2 @@
+[PNG magic bytes][whitespace]
+=alert("xxxtest-polyglot-XSS-" + location.host);
